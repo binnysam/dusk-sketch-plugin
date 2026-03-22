@@ -35,16 +35,19 @@ Instantly convert your design between Light and Dark themes across entire frames
 <br>
 <h1 align="center">Prerequisites (Color Variables Setup)</h1>
 <p align="center">
-Before using Dusk, organize your color variables in Light and Dark groups.<br>
+Before using Dusk, organize your color variables in Light and Dark groups.
+<br>
+<br>
 Swatch naming format msut be like<br>
-Category / Tone / Name<br>
-  <br>
-Example:
+Category / Tone / Name
+<br>
+<br>
+Example:<br>
 	•	Brand / Light / Primary<br>
 	•	Brand / Dark / Primary
 </p>
 <p align="center">
-  <img src="assets/screenshot-2.png" width="900"/>
+  <img src="assets/screenshot-1.png" width="900"/>
 </p>
 <br>
 <br>
