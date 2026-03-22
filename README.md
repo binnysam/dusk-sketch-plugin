@@ -38,7 +38,7 @@ Instantly convert your design between Light and Dark themes across entire frames
 Before using Dusk, organize your color variables in Light and Dark groups.
 <br>
 <br>
-Swatch naming format msut be like<br>
+Swatch naming format must be like<br>
 Category / Tone / Name
 <br>
 <br>
